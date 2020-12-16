@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-From the biotechnology laboratoy to the creative computer!!
+From the biotechnology laboratory to the creative computer!!
 After a few years in scientific research, I reconsidering a change in my career and I have found a new passion!! 
 Frontend development.
 Henceforth, I recombine “computer genes” to create interactive web pages and applications.
